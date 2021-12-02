@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  color: #39393a;
+}
+
+body {
+  background: #eaeaea;
+  font-family: "Roboto", sans-serif;
+}
+
+footer {
+  font-size: 20px;
+  padding: 0 0 30px 15px;
+}
+
+section {
+  width: 600px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: -10px 10px black;
+  margin: 40px auto;
+  padding: 5px;
+}

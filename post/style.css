@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  text-align: left;
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  width: 400px;
+}
+
+figcaption {
+  margin-left: 30px;
+}
